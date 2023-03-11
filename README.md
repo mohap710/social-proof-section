@@ -16,15 +16,10 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
-### The Solution
-
-![Mobile View](./screenshots/mobile.png)
-![Desktop View](./screenshots/desktop.png)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mohap710/social-proof-section)
-- Live Site URL: [Add live site URL here](https://mohap710.github.io/social-proof-section/)
+- Solution URL: [here](https://github.com/mohap710/social-proof-section)
+- Live Site URL: [here](https://mohap710.github.io/social-proof-section/)
 
 ### Built with
 
