@@ -18,8 +18,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### The Solution
 
-![Mobile View](./screenshoots/mobile.png)
-![Desktop View](./screenshoots/desktop.png)
+![Mobile View](./screenshots/mobile.png)
+![Desktop View](./screenshots/desktop.png)
 
 ### Links
 
