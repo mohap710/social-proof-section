@@ -30,4 +30,4 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Author
 
-- Frontend Mentor - [@mohap710](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mohap710](https://www.frontendmentor.io/profile/mohap710)
